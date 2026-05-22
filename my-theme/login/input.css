@@ -1,0 +1,4 @@
+@import "tailwindcss";
+
+/* IMPORTANT for CLI v4 */
+@source "./**/*.ftl";
